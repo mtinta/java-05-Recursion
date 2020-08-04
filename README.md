@@ -12,7 +12,7 @@ _Recursion._
 [Recursividad.tex](https://github.com/mtinta/java-05-Recursion/blob/master/latex/Recursividad.tex)
 
 ```
-Recursividad.tex.tex
+Recursividad.tex
 ```
 
 ### PDF presentation 📋
@@ -20,7 +20,7 @@ Recursividad.tex.tex
 [Recursividad.pdf](https://github.com/mtinta/java-05-Recursion/blob/master/latex/Recursividad.pdf)
 
 ```
-Recursividad.pdf.pdf
+Recursividad.pdf
 ```
 
 ### Basic examples 📋
@@ -28,12 +28,12 @@ Recursividad.pdf.pdf
 [basic_example1.java](https://github.com/mtinta/java-05-Recursion/blob/master/basic-examples/basic_example1.java)
 
 ```
-basic_example1.java.java
+basic_example1.java
 ```
 [basic_example2.java](https://github.com/mtinta/java-05-Recursion/blob/master/basic-examples/basic_example2.java)
 
 ```
-basic_example2.java.java
+basic_example2.java
 ```
 
 ### Advanced examples 📋
@@ -41,12 +41,12 @@ basic_example2.java.java
 [advance_example1.java](https://github.com/mtinta/java-05-Recursion/blob/master/advanced-examples/advance_example1.java)
 
 ```
-advance_example1.java
+advance_example1
 ```
 [advance_example2.java](https://github.com/mtinta/java-05-Recursion/blob/master/advanced-examples/advance_example2.java)
 
 ```
-advance_example2.java
+advance_example2
 ```
 
 ### Videos 📋
