@@ -1,56 +1,63 @@
-# java-00-programming-introduction
+# java-05-Recursion
 
-_Initial presentation of the course Programming Fundamentals 1. For the model class to be used in the presentations in the course._
+_ Presentation of the course Programming Fundamentals 1 -Recursion to be used in the presentations in the course._
 
 ## Topic 🚀
 
-_Programming introduction._
+_Recursion._
 
 
 ### Latex template 📋
 
-[java-00-programming-introduction.tex](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/latex/java-00-programming-introduction.tex)
+[Recursividad.tex](https://github.com/mtinta/java-05-Recursion/blob/master/latex/Recursividad.tex)
 
 ```
-java-00-programming-introduction.tex
+Recursividad.tex.tex
 ```
 
 ### PDF presentation 📋
 
-[java-00-programming-introduction.pdf](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/latex/java-00-programming-introduction.pdf)
+[Recursividad.pdf](https://github.com/mtinta/java-05-Recursion/blob/master/latex/Recursividad.pdf)
 
 ```
-java-00-programming-introduction.pdf
+Recursividad.pdf.pdf
 ```
 
 ### Basic examples 📋
 
-[HelloWorld.java](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/basic-examples/HelloWorld.java)
+[basic_example1.java](https://github.com/mtinta/java-05-Recursion/blob/master/basic-examples/basic_example1.java)
 
 ```
-HelloWorld.java
+basic_example1.java.java
 ```
-[Overflow.java](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/basic-examples/Overflow.java)
+[basic_example2.java](https://github.com/mtinta/java-05-Recursion/blob/master/basic-examples/basic_example2.java)
 
 ```
-Overflow.java
+basic_example2.java.java
 ```
 
 ### Advanced examples 📋
 
-[Course.java](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/advanced-examples/Course.java)
+[advance_example1.java](https://github.com/mtinta/java-05-Recursion/blob/master/advanced-examples/advance_example1.java)
 
 ```
-Course.java
+advance_example1.java
+```
+[advance_example2.java](https://github.com/mtinta/java-05-Recursion/blob/master/advanced-examples/advance_example2.java)
+
+```
+advance_example2.java
 ```
 
 ### Videos 📋
 
-[![Programming introduction](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/java-00-programming-introduction-first.png)](https://www.youtube.com/watch?v=FZPvrEd0yOU "Programming introduction")
+https://youtu.be/qF9QRRSj0RA
+https://youtu.be/K9cJdCvgKPA
+
 
 
 
 ## Authors ✒️
 
-* **Richart Smith Escobedo Quispe** - *100%* - [rescobedoq](https://github.com/rescobedoq)
-* **Juan Pérez** - *0%* - [jperez]
+* **Angelo Vega Figueroa** - *50%* - [Angelol72](https://github.com/Angelol72)
+* **Miguel Tinta Aguilar** - *50%* - [mtinta](https://github.com/mtinta)
